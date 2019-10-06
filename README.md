@@ -1,9 +1,9 @@
 # FaceBookAPI Restful WEB API 
 
-Для сборки потребуется Visual Studio 2019\
+Для сборки потребуется Visual Studio 2019  
 После открытия проекта надо поменять APP url на http://localhost:5000/  
-FaceBookAPI -> Properties -> Debug -> Profile -> FaceBookApi \
-Перед запуском переключить с IIS Express на FaceBookAPI \
+FaceBookAPI -> Properties -> Debug -> Profile -> FaceBookApi  
+Перед запуском переключить с IIS Express на FaceBookAPI  
 
 # Тестирование с помощью POSTMAN  
 
